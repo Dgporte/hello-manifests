@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: hello-app
-          image: dgporte/hello-app:76194d1
+          image: dgporte/hello-app:c2eb8df
           ports:
             - containerPort: 8080
